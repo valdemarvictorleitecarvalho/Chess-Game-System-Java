@@ -1,7 +1,7 @@
-package src.chess;
+package chess;
 
-import src.boardgame.Board;
-import src.boardgame.Piece;
+import boardgame.Board;
+import boardgame.Piece;
 
 public class ChessPiece extends Piece {
 
